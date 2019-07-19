@@ -2,7 +2,7 @@
 # This is greetings from Mike LU.
 
 
-#This Repo. includes the following materials:
+This Repo. includes the following materials:
 
 1. Acdemic Reports and Publications:
   (1)R1_岸桥抗震设计方法与措施研究201510.pdf;
