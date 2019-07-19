@@ -1,7 +1,7 @@
 # Hello!
 # This is greetings from Mike LU.
 
-'''
+
 This Repo. includes the following materials:
 
 1. Acdemic Reports and Publications:
@@ -12,7 +12,7 @@ This Repo. includes the following materials:
 2. ToyExample of Object Recognition--A Tabby Cat in image Recognition
 
 3. #TODO
-'''
+
 
 
 # BEST WISHES!
