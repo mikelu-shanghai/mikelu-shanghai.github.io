@@ -11,7 +11,7 @@ This Repo. includes the following materials:
   
 2. ToyExample of Single Object Recognition--A Tabby Cat in image Recognition
 
-3. Multi-Object Recognition Results--(1)by Faster-RCNN 
+3. Multi-Objects Recognition Results--(1)by Faster-RCNN 
 
 4. #TODO  
 
