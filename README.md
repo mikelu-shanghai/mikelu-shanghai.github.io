@@ -1,4 +1,4 @@
-*Hello! This is greetings from Mike LU.*
+Hello! This is greetings from Mike LU.
 
 *This Repo. includes the following materials:*
 
@@ -14,4 +14,4 @@
 
 
 
-*BEST WISHES!*
+BEST WISHES!
