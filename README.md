@@ -8,7 +8,7 @@
   - P1_JVEpaper1.pdf (a JVE paper on Simulated Automatic Training System)
 - **ToyExample of Single Object Recognition**
   - A Tabby Cat in image Recognition
-- **Multi-Objects Recognition Results**
+- **Multi-Objects Recognition Demo Results**
   - by Faster-RCNN 
 - #TODO  
 
