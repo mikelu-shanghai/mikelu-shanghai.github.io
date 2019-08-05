@@ -10,7 +10,7 @@ Hello! This is greetings from Mike LU.
   - A Tabby Cat in image Recognition
 - **Multi-Objects Recognition Demo Results**
   - by Faster-RCNN 
-- ME2AI-LearningTutorialReferenceSummary.md
+- **ME2AI-LearningTutorialReferenceSummary.md**
 - #TODO  
 
 
