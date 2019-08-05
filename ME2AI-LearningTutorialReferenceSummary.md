@@ -94,7 +94,7 @@
 
 ### 其他
 
-- [[B] 人工智能简史](http://www.opencv.org.cn/)
+- [[B] 人工智能简史](http://product.dangdang.com/25192834.html)
 - [[B] 无人驾驶](http://product.dangdang.com/1332939303.html)
 
 
@@ -105,4 +105,4 @@
 
 1. The learning materials are listed basically from easy to hard; and will be updated continuously.
 2. Abbreviation remarks: [B]=book, [W]=website, [OW]=official website, [V]=video,  [N]=lecture notes, [G]=github repo., [OG]=official github repo., can be added such as  [B+W+G]=book & website & github repo.
-3. Important books or other references and materialsI might have been missed, please don't hesitate to tell me your suggestion, @mikelu-shanghai, THANK YOU VERY MUCH!
+3. Important books or other references and materials might have been missed, please don't hesitate to tell me your suggestion, @mikelu-shanghai, THANK YOU VERY MUCH!
