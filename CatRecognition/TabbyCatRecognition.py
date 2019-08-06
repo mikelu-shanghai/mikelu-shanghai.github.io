@@ -4,7 +4,7 @@
 """
 Object Classification(such as a Tabby Cat image) using pretrained Inception v3
 
-1. The test image is located in ./images/cnn/test_image.png
+1. The test image is located at "./images/cnn/test_image.png"
 2. Download the whole folder and run the .py file directly in your workspace
 3. Downloading the pretrained Inception v3 may take a while (size of 
    inception_v3.ckpt: 103.8 MB)
