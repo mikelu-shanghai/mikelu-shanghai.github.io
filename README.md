@@ -6,8 +6,8 @@ Hello! This is greetings from Mike LU.
   - R1_岸桥抗震设计方法与措施研究201510.pdf
   - R2_Moving Load-Structure Coupled Vibration Analysis and Vibration Isolation for Port Machinery201612.pdf
   - P1_JVEpaper1.pdf (a JVE paper on Simulated Automatic Training System)
-  ---
-- **ToyExample of Single Object Recognition**
+---
+- **ToyExample of Single Object Recognition (by TensorFlow)**
   - A Tabby Cat in image Recognition
 - **Multi-Objects Recognition Demo Results**
   - by Faster-RCNN 
