@@ -9,7 +9,7 @@ Hello! This is greetings from Mike LU.
 ---
 - **Single Object Recognition (by TensorFlow)**
   - Toy Example of a Tabby Cat in image Recognition
-- **Multi-Objects Recognition Demo Results**
+- **Multi-Objects Recognition Demo Result**
   - by Faster-RCNN 
 - **OpenCV-Example Result**
   - ORC
