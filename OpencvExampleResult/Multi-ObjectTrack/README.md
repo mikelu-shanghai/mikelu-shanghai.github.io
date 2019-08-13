@@ -1,2 +1,2 @@
-READ:
+README:
 OpenCV-ExampleResult(online).md
