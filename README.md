@@ -17,7 +17,6 @@ Hello! This is greetings from Mike LU.
   - Object Recognition (by OpenCV and Caffe/TensorFlow integrated)
   - Multi-Objects Track (including pedestrian/athlete/vehicle/etc.)
   - Face Detection (EyeBlinks also)
-- **ME2AI-LearningTutorialReferenceSummary.md**
 - #TODO  
 
 
