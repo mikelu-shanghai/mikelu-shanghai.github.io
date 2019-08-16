@@ -12,7 +12,7 @@ Hello! This is greetings from Mike LU.
 - **Multi-Objects Recognition Demo Result**
   - by Faster-RCNN 
 - **OpenCV-Example Result**
-  - ORC
+  - OCR
   - Parking Detection
   - Object Recognition (by OpenCV and Caffe/TensorFlow integrated)
   - Multi-Objects Track (including pedestrian/athlete/vehicle/etc.)
