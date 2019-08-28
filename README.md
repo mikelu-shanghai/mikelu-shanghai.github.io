@@ -5,7 +5,7 @@ Hello! This is greetings from Mike LU.
 - **Academic Reports and Publications**
   - R1_岸桥抗震设计方法与措施研究201510.pdf
   - R2_Moving Load-Structure Coupled Vibration Analysis and Vibration Isolation for Port Machinery201612.pdf
-  - Representative Publications
+  - RepresentativePublications.md
 ---
 - **Single Object Recognition (by TensorFlow)**
   - Toy Example of a Tabby Cat in image Recognition
