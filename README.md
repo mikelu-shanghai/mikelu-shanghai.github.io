@@ -3,8 +3,8 @@ Hello! This is greetings from Mike LU.
 *This Repo. includes the following materials:*
 
 - **Academic Reports and Publications**
-  - R1_岸桥抗震设计方法与措施研究201510.pdf
-  - R2_Moving Load-Structure Coupled Vibration Analysis and Vibration Isolation for Port Machinery201612.pdf
+  - R1_岸桥抗震设计方法与措施研究.pdf
+  - R2_Moving Load-Structure Coupled Vibration Analysis and Vibration Isolation for Port Machinery.pdf
   - RepresentativePublications.md
 ---
 - **Single Object Recognition (by TensorFlow)**
