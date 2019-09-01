@@ -2,7 +2,7 @@ Hello! This is greetings from Mike LU.
 
 *This Repo. includes the following materials:*
 
-- **CNN-Modles**
+- **Summary of CNN-Modles**
   - A new Repo.
 ---
 - **Academic Reports and Publications**
