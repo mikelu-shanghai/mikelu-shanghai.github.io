@@ -8,7 +8,6 @@ Hello! This is greetings from Mike LU.
   - R1_岸桥抗震设计方法与措施研究.pdf
   - R2_Moving Load-Structure Coupled Vibration Analysis and Vibration Isolation for Port Machinery.pdf
   - RepresentativePublications.md
----
 - **Single Object Recognition (by TensorFlow)**
   - Toy Example of a Tabby Cat in image Recognition
 - **Multi-Objects Recognition Demo Result**
@@ -21,7 +20,7 @@ Hello! This is greetings from Mike LU.
   - Face Detection (EyeBlinks also)
 - #TODO  
 
-
+---
 ## New Projects
 
 - **Summary of CNN-Modles**
