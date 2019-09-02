@@ -20,7 +20,7 @@
 - #TODO  
 
 ---
-## New Repositories
+## Link to Other Repositories
 
 - **Summary of CNN-Modles**
   
