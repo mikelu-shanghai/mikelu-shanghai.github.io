@@ -22,8 +22,8 @@
 ---
 ## Link to Other Repositories
 
-- **Typical CNN-Model Evolution**
-  [Evolution of Typical Convolutional Neural Network Models Since LeNet](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution)
+- **Evolution of Typical Convolutional Neural Network Models Since LeNet**
+  [link](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution)
   
   
 
