@@ -20,11 +20,10 @@
 - #TODO  
 
 ---
-## New Projects
+## New Repositories
 
 - **Summary of CNN-Modles**
-  - A new Repo.
-
+  
 
 
 ## Question&Feedback
