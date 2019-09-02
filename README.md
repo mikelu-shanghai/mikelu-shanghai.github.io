@@ -1,5 +1,7 @@
 Hello! This is greetings from Mike LU.
 
+### Contents
+---
 *This Repo. includes the following materials:*
 
 - **Academic Reports and Publications**
@@ -19,13 +21,15 @@ Hello! This is greetings from Mike LU.
   - Face Detection (EyeBlinks also)
 - #TODO  
 
----
+
 ### New Projects
+---
 - **Summary of CNN-Modles**
   - A new Repo.
 
----
+
 ### Question&Feedback
+---
 If there is any question or feedback, please feel free to tell me:
 - Github: @mikelu-shanghai
 - E-mail: 2281514845@qq.com
