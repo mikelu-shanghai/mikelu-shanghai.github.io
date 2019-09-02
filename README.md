@@ -1,4 +1,3 @@
-Hello! This is greetings from Mike LU.
 
 ## Contents
 
