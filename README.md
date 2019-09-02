@@ -2,9 +2,6 @@ Hello! This is greetings from Mike LU.
 
 *This Repo. includes the following materials:*
 
-- **Summary of CNN-Modles**
-  - A new Repo.
----
 - **Academic Reports and Publications**
   - R1_岸桥抗震设计方法与措施研究.pdf
   - R2_Moving Load-Structure Coupled Vibration Analysis and Vibration Isolation for Port Machinery.pdf
@@ -23,7 +20,12 @@ Hello! This is greetings from Mike LU.
 - #TODO  
 
 ---
-#### Question&Feedback
+### New Projects
+- **Summary of CNN-Modles**
+  - A new Repo.
+
+---
+### Question&Feedback
 If there is any question or feedback, please feel free to tell me:
 - Github: @mikelu-shanghai
 - E-mail: 2281514845@qq.com
