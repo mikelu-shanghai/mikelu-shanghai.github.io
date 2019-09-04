@@ -10,7 +10,8 @@
 - **Single Object Recognition (by TensorFlow)**
   - Toy Example of a Tabby Cat in image Recognition
 - **Multi-Objects Recognition Demo Result**
-  - by Faster-RCNN 
+  - by Faster-RCNN
+  - by YOLO-v3
 - **OpenCV-Example Result**
   - OCR
   - Parking Detection
