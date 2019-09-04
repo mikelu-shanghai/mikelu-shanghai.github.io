@@ -1,7 +1,7 @@
 
-#### **Multi-Objects Recognition Demo Results**
+### **Multi-Objects Recognition Demo Results**
 
-##### 1. by Faster-RCNN
+#### 1. by Faster-RCNN
 
 - **Terminator(1984, 1991, coming soon)**
 
@@ -20,7 +20,7 @@
 ![Sofa](https://raw.githubusercontent.com/mikelu-shanghai/mikelu-shanghai.github.io/master/Multi-Objects%20Recognition/byFaster-RCNN/zhuzi%26me-3.png)
 
 
-##### 2. by YOLO-v3
+#### 2. by YOLO-v3
 
 
 
