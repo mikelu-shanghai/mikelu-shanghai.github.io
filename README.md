@@ -9,7 +9,7 @@
   - RepresentativePublications.md
 - **Single Object Recognition (by TensorFlow)**
   - Toy Example of a Tabby Cat in image Recognition
-- **Multi-Objects Recognition Demo Result**[[Link]](https://github.com/mikelu-shanghai/mikelu-shanghai.github.io/blob/master/Multi-Objects%20Recognition/Multi-ObjectsRecognitionDemoResults.md)
+- **Multi-Objects Recognition Demo Result** [[Link]](https://github.com/mikelu-shanghai/mikelu-shanghai.github.io/blob/master/Multi-Objects%20Recognition/Multi-ObjectsRecognitionDemoResults.md)
   - by Faster-RCNN
   - by YOLO-v3
 - **OpenCV-Example Result**
