@@ -25,6 +25,9 @@
 
 - **Evolution of Typical Convolutional Neural Network Models Since LeNet**
   [[Link]](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution)
+- **Object Detection Summary Notes** 
+  [[Link]](https://github.com/mikelu-shanghai/ObjectDetection-SummaryNotes)
+  - Generic Object Detection
   
   
 
