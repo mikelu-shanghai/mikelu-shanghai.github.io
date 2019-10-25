@@ -27,6 +27,7 @@
 - **Object Detection Summary Notes** 
   [[Link]](https://github.com/mikelu-shanghai/ObjectDetection-SummaryNotes)
   - A Survey to Generic Object Detection
+- **Face Recognition** 
   
  
  
