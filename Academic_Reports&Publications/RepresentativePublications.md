@@ -17,7 +17,4 @@
 - [Rubber support device for the axial clearance between boom and pin hinge of large-scale machinery](http://www.soopat.com/Patent/200910052492)
 - [LRB type anti-seismic vibration isolation and absorption equipment for port container cranes](http://www.soopat.com/Patent/200810040163)
 
-##### National Standard
-
-- [GB/T 36029-2018 Safety operation regulation of port dangerous cargo container in terminal stacking yard](http://product.dangdang.com/1325886715.html)
 
