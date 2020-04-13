@@ -1,6 +1,10 @@
 
 ### **Multi-Objects Recognition Demo Results**
 
+## 0. by TF-lite on HonorX8
+![Ballpoint](https://github.com/mikelu-shanghai/mikelu-shanghai.github.io/blob/master/Multi-Objects%20Recognition/ObjectDetectionbyTF-lite.jpg)
+
+
 ## 1. by Faster-RCNN
 
 - **Terminator(1984, 1991, coming soon)**
