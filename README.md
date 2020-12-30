@@ -18,6 +18,7 @@
   - Object Recognition (by OpenCV and Caffe/TensorFlow integrated)
   - Multi-Objects Track (including pedestrian/athlete/vehicle/etc.)
   - Face Detection (EyeBlinks also)
+- **Summary of Tutorial&References Leading ME2AI** [[Link]](https://github.com/mikelu-shanghai/mikelu-shanghai.github.io/blob/master/ME2AI-Tutorial%26ReferenceSummary.md)
 
 ---
 ## Link to Other Repositories
