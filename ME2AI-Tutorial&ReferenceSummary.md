@@ -102,7 +102,7 @@
 
 #### NOTE：
 
-1. The learning materials are listed basically from easy to hard; and will be updated continuously.
+1. The learning materials are listed basically from easy to hard; and will be updated continuously. Thanks a lot to the contributors!
 2. Abbreviation remarks: [B]=book, [W]=website, [OW]=official website, [V]=video,  [N]=lecture notes, [G]=github repo., [OG]=official github repo., can be added such as  [B+W+G]=book & website & github repo.
 3. Important books or other references and materials might have been missed, your kindly advice or suggestions are very appreciated!
 
